@@ -1,6 +1,8 @@
 {
   name: "Vamshi Kampalli",
   email: "vamshi.vshs@gmail.com",
+  mobile: "00000000000",
+  linkedIn: "https://www.linkedin.com/in/vamshikampalli/",
   dateOfBirth:"03/02/1991",
   dateOfJoiningIT: "07/05/2014",
   experienceInfo:[],
