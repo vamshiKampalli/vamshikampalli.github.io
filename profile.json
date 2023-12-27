@@ -1,9 +1,20 @@
 {
     "name": "Vamshi Kampalli",
     "email": "vamshi.vshs@gmail.com",
-    "mobile": "00000000000",
-    "linkedIn": "https://www.linkedin.com/in/vamshikampalli/",
+    "mobile": "+91-8939689696",
+    "linkedInUrl": "https://www.linkedin.com/in/vamshikampalli/",
+    "linkedInDisplayUrl": "linkedin.com/in/vamshikampalli/",
     "dateOfBirth": "03/02/1991",
     "dateOfJoiningIT": "07/05/2014",
-    "experienceInfo": []
+    "projectsInfo": [],
+    "skills": [
+        "JavaScript",
+        "React JS",
+        "Redux JS",
+        "Redux toolkit",
+        "Next JS",
+        "GraphQL",
+        "Apollo Client",
+        "AngularDart"
+    ]
 }
