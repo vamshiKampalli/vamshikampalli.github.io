@@ -8,13 +8,11 @@
     "dateOfJoiningIT": "07/05/2014",
     "projectsInfo": [],
     "skills": [
-        "JavaScript",
+        "JavaScript(ES5/ES6)",
         "React JS",
         "Redux JS",
         "Redux toolkit",
         "Next JS",
-        "GraphQL Client",
-        "Apollo Client",
         "AngularDart"
     ]
 }
