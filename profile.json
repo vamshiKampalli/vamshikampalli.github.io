@@ -6,7 +6,116 @@
     "linkedInDisplayUrl": "linkedin.com/in/vamshikampalli/",
     "dateOfBirth": "03/02/1991",
     "dateOfJoiningIT": "07/05/2014",
-    "projectsInfo": [],
+    "experience": [
+        {
+            "organization": "EPAM Systems",
+            "location": "Hyderabad",
+            "title": "Senior Software Engineer / Lead",
+            "startDate": "04/11/2019",
+            "endDate": "",
+            "projects": [
+                {
+                    "name": "Google - Flow Maker (At Google, Hyderabad)",
+                    "description": "Flow maker is a web based tool tailored for flow developers needs, to create and maintain Speakeasy call flows in an expedite way while enforcing the established Speakeasy call flows standards without using Eclipse and Papyrus.",
+                    "techstack": [
+                        "AngularDart",
+                        "Soy",
+                        "Protocol Buffers",
+                        "Bolt",
+                        "ScubaUI",
+                        "Javascript"
+                    ],
+                    "rolesAndResponsibilities": [
+                        "Understand Google's home built framework AngularDart, wherein Dart is a programming language.",
+                        "Invest in research and development to build a top end web based editor which is accessible.",
+                        "Achieve 90% code coverage along with unit tests for each block of the code.",
+                        "Client interactions to have smooth and quality deliverables.",
+                        "Leading a team through development and overseeing the process until deployment."
+                    ]
+                }
+            ]
+        },
+        {
+            "organization": "Publicis Sapient",
+            "location": "Bengaluru",
+            "title": "Senior Associate",
+            "startDate": "03/09/2018",
+            "endDate": "31/10/2019",
+            "projects": [
+                {
+                    "name": "Goldman Sachs - Marcus (At Goldman Sachs, Helios business park, Bengaluru)",
+                    "description": "Marcus by Goldman Sachs is a direct bank that offers personal loans and rewards savers with high-yield account options. I was part of the module onboarding customers for lending.",
+                    "techstack": [
+                        "JavaScript(ES6)",
+                        "React.js",
+                        "Redux",
+                        "Next.js",
+                        "GraphQL",
+                        "Apollo"
+                    ],
+                    "rolesAndResponsibilities": [
+                        "Done tasks like creating a mock server in node/express for the APIs to be triggered from the client side.",
+                        "Develop the components or mold the existing ones as per the designed user story. Agile process, involved in all scrums and grooming for better understanding of stories.",
+                        "Alone contributor from offshore regarding UI development, acted as POC for QA and deploying the application."
+                    ]
+                }
+            ]
+        },
+        {
+            "organization": "Cognizant Technology Solutions",
+            "location": "Chennai",
+            "title": "Associate",
+            "startDate": "07/05/2014",
+            "endDate": "31/08/2018",
+            "projects": [
+                {
+                    "name": "Pearson - eText",
+                    "description": "Pearson eText is a lightweight, digital replacement for a print textbook, provides a consumer grade, digital reading experience that takes advantage of digital capabilities to deliver content to learners than a traditional print text or a flat, pdf eBook.",
+                    "techstack": [
+                        "JavaScript(ES6)",
+                        "React.js",
+                        "Redux",
+                        "Material UI",
+                        "Webpack",
+                        "Jenkins"
+                    ],
+                    "rolesAndResponsibilities": [
+                        "Requirement understanding and analysis of the bottle necks, efforts, integration with other applications.",
+                        "Develop React components that are reusable all through Pearson applications.",
+                        "Work closely with fellow engineers from other teams to spec features and estimate effort.",
+                        "Work with an agile/scrum team to deliver solutions on time and at high quality that conform to user story acceptance criteria.",
+                        "Responsible for executing clean and progressively enhanced code for complex designs that reflect the architectural direction provided within the established technical framework.",
+                        "Development and support for the production issues."
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "college": "Vaagdevi College of Engineering",
+            "course": "B.Tech",
+            "place": "Warangal",
+            "timePeriod": "2008 - 2012"
+        }
+    ],
+    "awards": [
+        "Pioneer - DEP Dynamo Quarterly Award for Q-4 2015.",
+        "Digi Stellar - Monthly Awards for July’ 2017.",
+        "Pearson Idol - Pearson annual award 2018."
+    ],
+    "certifications": [
+        {
+            "name": "JavaScript Algorithms and Data Structure",
+            "issuedBy": "freeCodeCamp",
+            "certificateUrl": "https://www.freecodecamp.org/certification/vamshi_kampalli/javascript-algorithms-and-data-structures"
+        },
+        {
+            "name": "Deep Learning",
+            "issuedBy": "PadhAI",
+            "certificateUrl": "https://www.credential.net/1232584a-c527-4236-a1c0-bf4f71c0e925#gs.hh2xlt"
+        }
+    ],
     "skills": [
         "JavaScript(ES5/ES6)",
         "React JS",
