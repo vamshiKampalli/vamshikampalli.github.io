@@ -6,6 +6,7 @@
     "linkedInDisplayUrl": "linkedin.com/in/vamshikampalli/",
     "dateOfBirth": "02/03/1991",
     "dateOfJoiningIT": "05/07/2014",
+    "currentLocation":"Hyderabad, India",
     "experience": [
         {
             "organization": "EPAM Systems",
@@ -31,6 +32,19 @@
                         "Achieve 90% code coverage along with unit tests for each block of the code.",
                         "Client interactions to have smooth and quality deliverables.",
                         "Leading a team through development and overseeing the process until deployment."
+                    ]
+                },
+                {
+                    "name": "Support Center",
+                    "description": "A collection of web applications tailored for a leading IT corporation, aimed at enhancing the efficiency of delivering technical assistance to users and customers. Our efforts encompass both user/customer-facing applications and agent/resolver platforms, ensuring comprehensive support across the spectrum.",
+                    "techstack": [
+                       "JavaScript(ES6)", "React.js", "Redux.js", "TypeScript", "HTML/CSS"
+                    ],
+                    "rolesAndResponsibilities": [
+                        "Analyze UX and product owner requirements comprehensively.",
+                        "Develop reusable React components for diverse web applications.",
+                        "Collaborate with cross-functional teams to define features and estimate efforts.",
+                        "Leading a team in development, overseeing code reviews, and directing deployment processes.",
                     ]
                 }
             ]
