@@ -16,7 +16,7 @@
             "endDate": "",
             "projects": [
                 {
-                    "name": "Google - Flow Maker (At Google, Hyderabad)",
+                    "name": "Google - Flow Maker",
                     "description": "Flow maker is a web based tool tailored for flow developers needs, to create and maintain Speakeasy call flows in an expedite way while enforcing the established Speakeasy call flows standards without using Eclipse and Papyrus.",
                     "techstack": [
                         "AngularDart",
@@ -24,14 +24,15 @@
                         "Protocol Buffers",
                         "Bolt",
                         "ScubaUI",
-                        "Javascript"
+                        "Javascript",
+                        "Typescript"
                     ],
                     "rolesAndResponsibilities": [
-                        "Understand Google's home built framework AngularDart, wherein Dart is a programming language.",
-                        "Invest in research and development to build a top end web based editor which is accessible.",
-                        "Achieve 90% code coverage along with unit tests for each block of the code.",
-                        "Client interactions to have smooth and quality deliverables.",
-                        "Leading a team through development and overseeing the process until deployment."
+                        "Mastered Google's AngularDart for seamless integration.",
+                        "Researched and developed a top-tier web-based editor for improved accessibility.",
+                        "Achieved 90% code coverage, implementing unit tests for each code block.",
+                        "Ensured high-quality client interactions for smooth user experiences.",
+                        "Leading a team through development, code reviewing, and deployment oversight."
                     ]
                 },
                 {
@@ -72,9 +73,10 @@
                         "Apollo"
                     ],
                     "rolesAndResponsibilities": [
-                        "Done tasks like creating a mock server in node/express for the APIs to be triggered from the client side.",
-                        "Develop the components or mold the existing ones as per the designed user story. Agile process, involved in all scrums and grooming for better understanding of stories.",
-                        "Alone contributor from offshore regarding UI development, acted as POC for QA and deploying the application."
+                        "Established a Node/Express mock server for API triggering.",
+                        "Aligned and refined components with user stories in an agile process.",
+                        "Sole offshore UI developer, serving as QA point of contact.",
+                        "Deployed applications for a seamless and efficient user experience."
                     ]
                 }
             ]
@@ -98,12 +100,10 @@
                         "Jenkins"
                     ],
                     "rolesAndResponsibilities": [
-                        "Requirement understanding and analysis of the bottle necks, efforts, integration with other applications.",
-                        "Develop React components that are reusable all through Pearson applications.",
-                        "Work closely with fellow engineers from other teams to spec features and estimate effort.",
-                        "Work with an agile/scrum team to deliver solutions on time and at high quality that conform to user story acceptance criteria.",
-                        "Responsible for executing clean and progressively enhanced code for complex designs that reflect the architectural direction provided within the established technical framework.",
-                        "Development and support for the production issues."
+                        "Analyzed requirements, addressing bottlenecks with effective solutions.",
+                        "Collaborated with cross-functional teams to specify features and estimate efforts.",
+                        "Delivered clean, enhanced code within established technical frameworks.",
+                        "Ensured system reliability through ongoing development and support for production issues."
                     ]
                 }
             ]
