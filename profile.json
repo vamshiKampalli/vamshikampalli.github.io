@@ -6,7 +6,7 @@
     "linkedInDisplayUrl": "linkedin.com/in/vamshikampalli/",
     "dateOfBirth": "02/03/1991",
     "dateOfJoiningIT": "05/07/2014",
-    "currentLocation":"Hyderabad, India",
+    "currentLocation": "Hyderabad, India",
     "experience": [
         {
             "organization": "EPAM Systems",
@@ -38,7 +38,11 @@
                     "name": "Support Center",
                     "description": "A collection of web applications tailored for a leading IT corporation, aimed at enhancing the efficiency of delivering technical assistance to users and customers. Our efforts encompass both user/customer-facing applications and agent/resolver platforms, ensuring comprehensive support across the spectrum.",
                     "techstack": [
-                       "JavaScript(ES6)", "React.js", "Redux.js", "TypeScript", "HTML/CSS"
+                        "JavaScript(ES6)",
+                        "React.js",
+                        "Redux.js",
+                        "TypeScript",
+                        "HTML/CSS"
                     ],
                     "rolesAndResponsibilities": [
                         "Analyze UX and product owner requirements comprehensively.",
@@ -120,6 +124,16 @@
     ],
     "certifications": [
         {
+            "name": "AWS Certified Solutions Architect – Associate",
+            "issuedBy": "AWS Training and Certification",
+            "certificateUrl": "https://www.credly.com/badges/9a7d8288-7aee-4455-acaf-f5edc3a0febb/public_url"
+        },
+        {
+            "name": "Associate Cloud Engineer Certification",
+            "issuedBy": "Google Cloud",
+            "certificateUrl": "https://www.credly.com/badges/15954613-3d69-42b2-8010-23a2413df50d/public_url"
+        },
+        {
             "name": "JavaScript Algorithms and Data Structure",
             "issuedBy": "freeCodeCamp",
             "certificateUrl": "https://www.freecodecamp.org/certification/vamshi_kampalli/javascript-algorithms-and-data-structures"
@@ -132,6 +146,7 @@
     ],
     "skills": [
         "JavaScript(ES5/ES6)",
+        "Typescript",
         "React JS",
         "Redux JS",
         "Redux toolkit",
