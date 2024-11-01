@@ -146,12 +146,13 @@
     ],
     "skills": [
         "JavaScript(ES5/ES6)",
-        "Typescript",
         "React JS",
-        "Redux JS",
-        "Redux toolkit",
+        "Redux JS / Redux toolkit",
+        "HTML5 / CSS3",
+        "Typescript",
         "Next JS",
         "AngularDart",
-        "HTML/CSS"
+        "GraphQL",
+        "Apollo Client/Server"
     ]
 }
