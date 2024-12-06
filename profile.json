@@ -18,26 +18,6 @@
             "endDate": "",
             "projects": [
                 {
-                    "name": "Google - Flow Maker",
-                    "description": "Flow maker is a web based tool tailored for flow developers needs, to create and maintain Speakeasy call flows in an expedite way while enforcing the established Speakeasy call flows standards without using Eclipse and Papyrus.",
-                    "techstack": [
-                        "AngularDart",
-                        "Soy",
-                        "Protocol Buffers",
-                        "Bolt",
-                        "ScubaUI",
-                        "Javascript",
-                        "Typescript"
-                    ],
-                    "rolesAndResponsibilities": [
-                        "Mastered Google's AngularDart for seamless integration.",
-                        "Researched and developed a top-tier web-based editor for improved accessibility.",
-                        "Achieved 90% code coverage, implementing unit tests for each code block.",
-                        "Ensured high-quality client interactions for smooth user experiences.",
-                        "Leading a team through development, code reviewing, and deployment oversight."
-                    ]
-                },
-                {
                     "name": "Support Center",
                     "description": "A collection of web applications tailored for a leading IT corporation, aimed at enhancing the efficiency of delivering technical assistance to users and customers. Our efforts encompass both user/customer-facing applications and agent/resolver platforms, ensuring comprehensive support across the spectrum.",
                     "techstack": [
@@ -52,6 +32,26 @@
                         "Develop reusable React components for diverse web applications.",
                         "Collaborate with cross-functional teams to define features and estimate efforts.",
                         "Leading a team in development, overseeing code reviews, and directing deployment processes."
+                    ]
+                },
+                {
+                    "name": "Google - Flow Maker",
+                    "description": "Flow maker is a web based tool tailored for flow developers needs, to create and maintain Speakeasy call flows in an expedite way while enforcing the established Speakeasy call flows standards without using Eclipse and Papyrus.",
+                    "techstack": [
+                        "AngularDart",
+                        "Soy",
+                        "Protocol Buffers",
+                        "gRPC",
+                        "Bolt",
+                        "ScubaUI",
+                        "Typescript"
+                    ],
+                    "rolesAndResponsibilities": [
+                        "Mastered Google's AngularDart for seamless integration.",
+                        "Researched and developed a top-tier web-based editor for improved accessibility.",
+                        "Achieved 90% code coverage, implementing unit tests for each code block.",
+                        "Ensured high-quality client interactions for smooth user experiences.",
+                        "Leading a team through development, code reviewing, and deployment oversight."
                     ]
                 }
             ]
