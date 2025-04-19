@@ -10,12 +10,33 @@
     "currentLocation": "Hyderabad, India",
     "summary":"I am a Web Application Developer with REPLACE_EXPERIENCE+ years of experience across all stages of development. Skilled in appliaction development, testing, and debugging, with a strong record of leading teams, managing deliverables, and running Scrum ceremonies. Self-motivated and collaborative, with experience in mentoring, interviewing, and ensuring timely, high-quality project outcomes.",
     "experience": [
-        {"organization":"State Street",
-    "location":"Hyderabad",
-"title":"Officer (UI Lead with AWS - Manager)",
-"startDate":"17/03/2025",
-"endDate":"",
-"projects":[]},
+        {
+            "organization":"State Street",
+            "location":"Hyderabad",
+            "title":"Officer (UI Lead with AWS - Manager)",
+            "startDate":"17/03/2025",
+            "endDate":"",
+            "projects":[
+                {
+                    "name": "Equity Swap",
+                    "description": "A web application to monitor the workflow of the equity swaps.",
+                    "techstack": [
+                        "JavaScript(ES6)",
+                        "React.js",
+                        "Redux.js",
+                        "TypeScript",
+                        "HTML/CSS",
+                        "Bootstrap",
+                    ],
+                    "rolesAndResponsibilities": [
+                        "Sit with UX and product owner to match the requirements, guide UX for the wireframes.",
+                        "Picked up the web application from the scratch.",
+                        "Collaborate with cross-functional teams to define features and estimate efforts.",
+                        "Leading a team in development, overseeing code reviews, and directing deployment processes."
+                    ]
+                },
+            ]
+        },
         {
             "organization": "EPAM Systems",
             "location": "Hyderabad",
